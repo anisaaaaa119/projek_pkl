@@ -347,7 +347,7 @@
 
         <!-- Footer -->
         <div class="mt-12 text-center text-gray-500 text-sm mb-6">
-            <p>© 2025 Sistem Manajemen Inventaris. Semua hak dilindungi.</p>
+            <p> ©2025 Sistem Manajemen Inventaris. Semua hak dilindungi.</p>
         </div>
     </div>
 </div>
