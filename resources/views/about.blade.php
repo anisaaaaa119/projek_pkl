@@ -282,9 +282,10 @@
                 </div>
                 <div>
                     <h3 class="text-white font-bold text-lg mb-4">Kontak</h3>
-                    <p class="text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-2"></i> Jl. Pendidikan No. 123, Jakarta</p>
-                    <p class="text-gray-400 mb-2"><i class="fas fa-phone mr-2"></i> (021) 1234-5678</p>
-                    <p class="text-gray-400"><i class="fas fa-envelope mr-2"></i> info@inventarisbarang.id</p>
+                    <p class="text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-2"></i>D'Esta Square No. 10, Jl. Pakuan No.02, RT.01/RW.11, Baranangsiang, Bogor Timur,
+                         Bogor City, West Java 16143</p>
+                    <p class="text-gray-400 mb-2"><i class="fas fa-phone mr-2"></i>  (0251) 7561016 </p>
+                    <p class="text-gray-400"><i class="fas fa-envelope mr-2"></i>  info@enhaiimandiri.com </p>
                 </div>
             </div>
             <div class="border-t border-gray-700 pt-6">
